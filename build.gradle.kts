@@ -2,7 +2,7 @@ subprojects {
     apply(plugin = "java")
 
     group = "io.github.stanikoc"
-    version = "1.0-SNAPSHOT"
+    version = "1.0.0"
 
     repositories {
         mavenCentral()
